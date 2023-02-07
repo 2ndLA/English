@@ -1,6 +1,6 @@
 # 📄 前言
 
-![问 ChatGPT：现在还有必要学英语吗？](.gitbook/assets/readme-chatgpt.png)
+![问 ChatGPT：还有必要学英语吗？](.gitbook/assets/readme-chatgpt.png)
 
 这里收集的英语学习材料基本按照难度递增的顺序编排，建议先按顺序浏览一遍目录。
 
