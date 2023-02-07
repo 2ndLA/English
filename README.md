@@ -18,7 +18,4 @@
 
 💡 一定能让你更接近学习英语的终点。
 
-
-{% hint style="info" %}
-看到这里，你已经知道 Pros & Cons 的基本意思。
-{% endhint %}
+> 看到这里，你已经知道 Pros & Cons 的基本意思。
