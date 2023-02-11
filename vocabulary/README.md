@@ -1,2 +1,7 @@
-# 🔠 词汇 🚧
+---
+description: Vocabulary | Lexical Resource
+---
 
+# 🔠 词汇
+
+🚧
