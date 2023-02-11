@@ -58,7 +58,7 @@ Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他�
 * 腾讯翻译君
 * 有道翻译
 
-其中的 DeepL 号称是“全世界最准确的翻译（The world's most accurate translator）”，我用了一段时间，翻译质量确实还不错。
+其中的 [DeepL](https://www.deepl.com/) 号称是“全世界最准确的翻译（The world's most accurate translator）”，我用了一段时间，翻译质量确实很不错。网上也有不少针对不同翻译引擎的测评对比，感兴趣的话可以自行搜索。
 
 #### 全局翻译插件
 
