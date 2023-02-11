@@ -24,7 +24,9 @@ Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分�
 * [ ] [Select to translate - Translator, Dictionary](https://chrome.google.com/webstore/detail/select-to-translate-trans/ibppednjgooiepmkgdcoppnmbhmieefh)
 * [ ] [沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
 
-最终，我保留了其中两个：「[划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)」与「[Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)」。划词翻译能满足我所有的需求：
+最终，我保留了其中两个：「[划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)」与「[Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)」。
+
+划词翻译能满足我所有的需求：
 
 * 选中特定内容翻译
 * 整页翻译
@@ -36,7 +38,7 @@ Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他�
 
 ### 其他
 
-如果你不想安装浏览器插件，还可以尝试如下其他方式：
+如果你不想安装浏览器插件，还可以尝试其他方式：
 
 #### 词典
 
