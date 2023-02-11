@@ -34,7 +34,7 @@ Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分�
 
 保留 Google Translate 的原因是：Google 官方的部分站点只有它可以整页翻译。
 
-Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他浏览器如 Edge，或者直接到「[划词翻译官方网站](https://hcfy.app/)」下载安装。
+Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他浏览器如「[Edge](https://www.microsoft.com/zh-cn/edge)」与其「[扩展商店](https://microsoftedge.microsoft.com/addons/)」，或者直接到「[划词翻译官方网站](https://hcfy.app/)」下载安装。
 
 ### 其他
 
