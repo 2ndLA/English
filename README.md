@@ -22,4 +22,4 @@ description: Foreword
 
 💡 一定能让你更接近学习英语的终点。
 
-> 看到这里，你已经知道 Pros & Cons 的基本意思。
+> 看到这里，你已经知道 pros & cons 的基本意思。

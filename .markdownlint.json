@@ -5,7 +5,5 @@
     "vscode": "https://github.com/DavidAnson/vscode-markdownlint"
   },
   "MD012": false,
-  "MD013": {
-    "headings": false
-  }
+  "MD013": false
 }
