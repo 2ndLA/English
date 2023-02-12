@@ -60,12 +60,10 @@ Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他�
 * 腾讯翻译君
 * 有道翻译
 
-其中 [DeepL](https://www.deepl.com/) 号称是“全世界最准确的翻译（The world's most accurate translator）”，我用了一段时间，翻译质量确实很不错。网上也有不少针对不同翻译引擎的测评对比，感兴趣的话可以自行搜索。
+其中 [DeepL](https://www.deepl.com/) 号称是“全世界最准确的翻译 (The world's most accurate translator)”，我用了一段时间，翻译质量确实很不错。网上也有不少针对不同翻译引擎的测评对比，感兴趣的话可以自行搜索。
 
 #### 全局翻译软件
 
 全局软件和浏览器插件的主要区别是，全局软件可以对浏览器之外的文字内容进行翻译，比如在 Office 套件中。这类软件有 [GT4T](https://gt4t.cn/), [QTranslate](https://quest-app.appspot.com/) 等，由于全局软件对我来说过于“重型”，所以我并没有试用。
 
 ## 输入法 🚧
-
-## ChatGPT 🚧
