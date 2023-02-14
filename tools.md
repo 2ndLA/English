@@ -26,13 +26,11 @@ Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分�
 
 最终，我保留了其中两个：「[划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)」与「[Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)」。
 
-划词翻译能满足我所有的需求：
+这两个插件结合能满足我所有的需求：
 
 * 选中特定内容翻译
-* 整页翻译
-* 集成多个翻译引擎
-
-保留 Google Translate 的原因是：Google 官方的部分站点只有它可以整页翻译。
+* 整页翻译（划词翻译有次数限制）
+* 集成多个翻译引擎（Google Translate 没有多引擎）
 
 Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他浏览器如「[Edge](https://www.microsoft.com/zh-cn/edge)」与其「[扩展商店](https://microsoftedge.microsoft.com/addons/)」，或者直接到「[划词翻译官方网站](https://hcfy.app/)」下载安装。
 
@@ -74,4 +72,4 @@ Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他�
 
 对于这种多语言输入需求，除了针对每种语言安装一个输入法软件，更方便的做法是直接使用所在操作系统的官方输入法。比如在 Windows 使用微软输入法，在 Android 使用谷歌输入法，在 macOS/iOS 使用自带的输入法。
 
-这些操作系统厂商的目标用户群本来就是世界各地的人，所以它们的输入法自带大量语种可以选择。当你需要输入一门新语言，需要做的就是在输入法中多选中一种语言而已。当然，它们的输入体验一般没有本地厂商做得好，比如搜狗输入法跟 QQ 输入法，中文输入体验要好不少。
+这些操作系统厂商的目标用户群本来就是世界各地的人，所以它们的输入法自带大量语种可以选择。当你需要输入一门新语言，需要做的就是在输入法中多选中一种语言而已。当然，它们的输入体验一般没有本地厂商做得好，比如搜狗输入法跟 QQ 输入法的中文输入体验要好不少。
