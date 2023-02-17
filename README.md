@@ -12,11 +12,10 @@ An easy and comprehensive way to learn English.
 - **界面更加美观**
 - 访问速度较慢
 
-### Gitee (VitePress)
+### Gitee Pages (VitePress)
 
 - <https://en.highlight.ink/>
 - **访问速度更快**
-- 界面比较一般
 
 ## 内容贡献
 
