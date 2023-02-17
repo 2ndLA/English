@@ -2,7 +2,7 @@ import sidebarData from './gitbooktoc'
 
 export default {
   cleanUrls: true,
-  description: 'An easy enough and comprehensive way to learn English.',
+  description: 'An easy and comprehensive way to learn English.',
   lastUpdated: true,
   srcDir: '.',
   title: 'The English Learner',
