@@ -11,11 +11,13 @@ An easy and comprehensive way to learn English.
 - <https://english.highlight.ink/>
 - **界面更加美观**
 - 访问速度较慢
+- 基于 [GitBook](https://www.gitbook.com/)
 
 ### Gitee Pages (VitePress)
 
 - <https://en.highlight.ink/>
 - **访问速度更快**
+- 基于 [Gitee Pages](https://gitee.com/help/articles/4136) +  [VitePress](https://vitepress.vuejs.org/)
 
 ## 内容贡献
 
