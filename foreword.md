@@ -1,6 +1,8 @@
-# 📄 前言
+---
+description: Foreword
+---
 
-> Foreword
+# 📄 前言
 
 ![问 ChatGPT：还有必要学外语吗？](.gitbook/assets/foreword-ask-chatgpt.png)
 
