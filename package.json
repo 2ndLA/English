@@ -1,0 +1,34 @@
+{
+  "name": "2ndla-english",
+  "version": "1.0.0",
+  "description": "This is for using VitePress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ndLA/English.git"
+  },
+  "author": "Octobug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2ndLA/English/issues"
+  },
+  "homepage": "https://github.com/2ndLA/English#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "flexsearch": "^0.7.31",
+    "markdown-it-task-checkbox": "^1.0.6",
+    "vitepress": "^1.0.0-alpha.46",
+    "vitepress-plugin-search": "^1.0.4-alpha.19",
+    "vue": "^3.2.47"
+  }
+}

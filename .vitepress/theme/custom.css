@@ -1,0 +1,35 @@
+/* https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css */
+/* Colors Theme */
+
+:root {
+    /* GitBook Colors */
+    --gb-c-bluegray-lighter: #a0b3c4;
+    --gb-c-bluegray-light: #8899a8;
+    --gb-c-blue: #346ddb;
+    --gb-c-blue-dark: #244a98;
+    --gb-c-blue-darker: #183267;
+    /* GitBook Colors */
+
+    --vp-c-brand: var(--gb-c-blue);
+    --vp-c-brand-light: var(--gb-c-bluegray-light);
+    --vp-c-brand-lighter: var(--gb-c-bluegray-lighter);
+    --vp-c-brand-dark: var(--gb-c-blue-dark);
+    --vp-c-brand-darker: var(--gb-c-blue-darker);
+}
+
+/* CheckList Customization */
+ul.task-list {
+    padding-left: 0;
+}
+
+ul.task-list>.task-list-item {
+    list-style-type: none;
+}
+
+ul.task-list>.task-list-item>input {
+    vertical-align: text-bottom;
+}
+
+ul.task-list>.task-list-item>label {
+    margin-left: 3px;
+}
