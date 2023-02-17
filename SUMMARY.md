@@ -1,6 +1,7 @@
 # Table of contents
 
-* [📄 前言](README.md)
+* [🇬🇧 介绍](README.md)
+* [📄 前言](foreword.md)
 * [🛠 工具](tools.md)
 * [🐣 零基础 🚧](primer/README.md)
   * [多邻国 🚧](primer/duolingo.md)
