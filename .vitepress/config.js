@@ -21,9 +21,13 @@ export default {
       })
     }
   },
+  // You have to write mapping for each depth of README.md
+  // https://github.com/vuejs/vitepress/discussions/1942
   rewrites: {
     'README.md': 'index.md',
-    ':any*/README.md': ':any*/index.md'
+    ':a*/README.md': ':a*/index.md',
+    ':a*/:b*/README.md': ':a*/:b*/index.md',
+    ':a*/:b*/:c*/README.md': ':a*/:b*/:c*/index.md'
   },
   themeConfig: {
     logo: 'favicon.png',
