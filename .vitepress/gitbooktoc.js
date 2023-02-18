@@ -58,7 +58,7 @@ class Node {
   toJSON() {
     return {
       text: this.text,
-      link: this.link,
+      link: this.link.replace(/README$/, ''),
       collapsed: this.collapsed,
       items: this._items.length > 0 ? this._items : undefined
     }
