@@ -1,25 +1,43 @@
 ---
-description: Foreword
+description: Introduction
 ---
 
-# 📄 前言
+# ℹ 介绍
 
-![问 ChatGPT：还有必要学外语吗？](.gitbook/assets/foreword-ask-chatgpt.png)
+<!--@include: ./fm-desc.md-->
 
-这里收集的英语学习材料基本按照难度递增的顺序编排，建议先按顺序浏览一遍目录。
+An easy and comprehensive way to learn English.
 
-这些材料...
+## 阅读
 
-## Cons
+### GitBook
 
-⛔ 不是学习英语的捷径，不能让你掌握得比别人更快。
+- <https://english.highlight.ink/>
+- **界面更加美观**
+- 访问速度较慢
+- 基于 [GitBook](https://www.gitbook.com/)
 
-⛔ 不以应试为目的，不会刻意收集应试技巧，更不能满足追求时效的需要。
+### Gitee Pages (VitePress)
 
-## Pros
+- <https://en.highlight.ink/>
+- **访问速度更快**
+- 基于 [Gitee Pages](https://gitee.com/help/articles/4136) +  [VitePress](https://vitepress.vuejs.org/)
 
-💡 可以节省你寻找学习资源的时间。
+## 内容贡献
 
-💡 一定能让你更接近学习英语的终点。
+1. 下载本项目 & 安装基于 VitePress 的预览环境
 
-> 看到这里，你已经知道 pros & cons 的基本意思。
+    ```sh
+    git clone git@github.com:2ndLA/English.git
+    cd English
+
+    npm install
+    npm run dev
+    ```
+
+2. 编辑内容
+3. 提交 Pull Request
+
+## LICENSE
+
+> pending
