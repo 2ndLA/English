@@ -3,7 +3,7 @@
 * [ℹ 介绍](README.md)
 * [📄 前言](foreword.md)
 * [🛠 工具](tools.md)
-* [🐣 零基础 🚧](primer/README.md)
+* [🐣 零基础](primer/README.md)
   * [多邻国 🚧](primer/duolingo.md)
   * [新概念英语 🚧](primer/new-concept-english.md)
 * [🔠 词汇 🚧](vocabulary/README.md)
