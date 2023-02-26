@@ -23,15 +23,16 @@ An easy and comprehensive way to learn English.
 
 ## 内容贡献
 
-1.  下载本项目 & 安装基于 VitePress 的预览环境
+1. 下载本项目 & 安装基于 VitePress 的预览环境
 
     ```sh
     git clone git@github.com:2ndLA/English.git
     cd English
 
-    npm install
-    npm run dev
+    yarn install
+    yarn dev
     ```
+
 2. 编辑内容
 3. 提交 Pull Request
 

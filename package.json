@@ -29,6 +29,7 @@
     "flexsearch": "^0.7.31",
     "husky": "^8.0.3",
     "markdown-it-task-checkbox": "^1.0.6",
+    "vite": "^4.1.4",
     "vitepress": "^1.0.0-alpha.46",
     "vitepress-plugin-search": "^1.0.4-alpha.19",
     "vue": "^3.2.47"

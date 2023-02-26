@@ -1,7 +1,6 @@
 import sidebarData from './gitbooktoc'
 
 export default {
-  base: '/English/',
   cleanUrls: true,
   description: 'An easy and comprehensive way to learn English.',
   lastUpdated: true,
