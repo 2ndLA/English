@@ -4,9 +4,17 @@ description: Introduction
 
 # ℹ 介绍
 
+<!--@include: ./fm-desc.md-->
+
 An easy and comprehensive way to learn English.
 
 ## 在线阅读
+
+### Netlify (VitePress)
+
+* [https://en.highlight.ink/](https://en.highlight.ink/)
+* **访问速度更快**
+* 基于 [Netlify](https://netlify.com) + [VitePress](https://vitepress.vuejs.org/)
 
 ### GitBook
 
@@ -15,13 +23,7 @@ An easy and comprehensive way to learn English.
 * 访问速度较慢
 * 基于 [GitBook](https://www.gitbook.com/)
 
-### Netlify (VitePress)
-
-* [https://en.highlight.ink/](https://en.highlight.ink/)
-* **访问速度更快**
-* 基于 [Netlify](https://netlify.com) + [VitePress](https://vitepress.vuejs.org/)
-
-## 内容贡献
+## 贡献内容
 
 1. 下载本项目 & 安装基于 VitePress 的预览环境
 
@@ -34,7 +36,7 @@ An easy and comprehensive way to learn English.
     ```
 
 2. 编辑内容
-3. 提交 Pull Request
+3. 提交 Pull request
 
 ## LICENSE
 
