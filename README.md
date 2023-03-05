@@ -10,15 +10,13 @@ An easy and comprehensive way to learn English.
 
 ## 在线阅读
 
-### Netlify (VitePress)
+### [en.highlight.ink](https://en.highlight.ink/)
 
-* [https://en.highlight.ink/](https://en.highlight.ink/)
 * **访问速度更快**
-* 基于 [Netlify](https://netlify.com) + [VitePress](https://vitepress.vuejs.org/)
+* 基于 [VitePress](https://vitepress.vuejs.org/) + [Netlify](https://netlify.com)
 
-### GitBook
+### [english.highlight.ink](https://english.highlight.ink/)
 
-* [https://english.highlight.ink/](https://english.highlight.ink/)
 * **界面更加美观**
 * 访问速度较慢
 * 基于 [GitBook](https://www.gitbook.com/)
