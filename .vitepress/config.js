@@ -1,4 +1,5 @@
 import sidebarData from './gitbooktoc'
+import gtagConfig from './gtag'
 
 export default {
   cleanUrls: true,
@@ -7,7 +8,11 @@ export default {
   srcDir: '.',
   title: 'The English Learner',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }]
+    [
+      'link',
+      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }
+    ],
+    ...gtagConfig
   ],
   markdown: {
     config: (md) => {
