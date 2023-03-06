@@ -22,15 +22,11 @@ class Node {
   }
 
   toJSON() {
-    let link
-    if (this.link === '/README') {
-      link = '/introduction'
-    } else {
-      link = this.link.replace(/README$/, '')
-    }
     return {
       text: this.text,
-      link,
+      link: this.link === '/README'
+        ? '/introduction'
+        : this.link.replace(/README$/, ''),
       collapsed: this.collapsed,
       items: this.items.length > 0 ? this.items : undefined
     }
