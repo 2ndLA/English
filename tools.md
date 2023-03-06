@@ -18,7 +18,7 @@ description: Tools
 
 电脑端浏览器应该是阅读英文最频繁的场景，如果能针对页面特定内容自动翻译最好不过。
 
-Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分较高且用户量足够大的插件中，我试用了以下几款：
+Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分较高且用户量足够大的插件中，我们试用了以下几款：
 
 * [ ] [DeepL Translate: Reading & writing translator](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
 * [x] [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
@@ -26,9 +26,9 @@ Chrome（Edge、Firefox 也有各自的扩展商店）的扩展商店中评分�
 * [ ] [Select to translate - Translator, Dictionary](https://chrome.google.com/webstore/detail/select-to-translate-trans/ibppednjgooiepmkgdcoppnmbhmieefh)
 * [ ] [沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
 
-最终，我保留了其中两个：「[划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)」与「[Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)」。
+最终，我们保留了其中两个：「[划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)」与「[Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)」。
 
-这两个插件结合能满足我所有的需求：
+这两个插件结合能满足如下所有需求：
 
 * 选中特定内容翻译
 * 整页翻译（划词翻译有次数限制）
@@ -60,15 +60,15 @@ Chrome 扩展商店需要科学上网才能访问，你可以考虑使用其他�
 * 腾讯翻译君
 * 有道翻译
 
-其中 [DeepL](https://www.deepl.com/) 号称是“全世界最准确的翻译 (The world's most accurate translator)”，我用了一段时间，翻译质量确实很不错。网上也有不少针对不同翻译引擎的测评对比，感兴趣的话可以自行搜索。
+其中 [DeepL](https://www.deepl.com/) 号称是“全世界最准确的翻译 (The world's most accurate translator)”，我们用了一段时间，翻译质量确实很不错。网上也有不少针对不同翻译引擎的测评对比，感兴趣的话可以自行搜索。
 
 #### 全局翻译软件
 
-全局软件和浏览器插件的主要区别是，全局软件可以对浏览器之外的文字内容进行翻译，比如在 Office 套件中。这类软件有 [GT4T](https://gt4t.cn/), [QTranslate](https://quest-app.appspot.com/) 等，由于全局软件对我来说过于“重型”，所以我并没有试用。
+全局软件和浏览器插件的主要区别是，全局软件可以对浏览器之外的文字内容进行翻译，比如在 Office 套件中。这类软件有 [GT4T](https://gt4t.cn/), [QTranslate](https://quest-app.appspot.com/) 等，由于全局软件对相对来说比较“重型”，所以我们并没有试用。
 
 ## 输入法（多语言需求）
 
-如果你只有中英输入的需求，那么使用普通的中文输入法就足够，这类输入法一般都有输入英文的能力，而且做得都不错。
+如果你只有中英输入的需求，那么使用普通的中文输入法即可，这类输入法一般都有输入英文的能力，而且做得都不错。
 
 如果你学习多于一门外语，或者想要输入方言比如粤语，这时候就需要有多种语言各自的输入法。
 

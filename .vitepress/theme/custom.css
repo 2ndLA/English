@@ -27,7 +27,7 @@ ul.task-list>.task-list-item {
 }
 
 ul.task-list>.task-list-item>input {
-    vertical-align: text-bottom;
+    vertical-align: text-top;
 }
 
 ul.task-list>.task-list-item>label {

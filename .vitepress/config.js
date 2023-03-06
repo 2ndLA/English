@@ -1,4 +1,5 @@
 import sidebarData from './gitbooktoc'
+import gtagConfig from './gtag'
 
 export default {
   cleanUrls: true,
@@ -7,7 +8,11 @@ export default {
   srcDir: '.',
   title: 'The English Learner',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }]
+    [
+      'link',
+      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }
+    ],
+    ...gtagConfig
   ],
   markdown: {
     config: (md) => {
@@ -24,7 +29,8 @@ export default {
   // You have to write mapping for each depth of README.md
   // https://github.com/vuejs/vitepress/discussions/1942
   rewrites: {
-    'README.md': 'index.md',
+    'home.md': 'index.md',
+    'README.md': 'introduction.md',
     ':a*/README.md': ':a*/index.md',
     ':a*/:b*/README.md': ':a*/:b*/index.md',
     ':a*/:b*/:c*/README.md': ':a*/:b*/:c*/index.md'

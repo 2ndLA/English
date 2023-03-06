@@ -24,7 +24,9 @@ class Node {
   toJSON() {
     return {
       text: this.text,
-      link: this.link.replace(/README$/, ''),
+      link: this.link === '/README'
+        ? '/introduction'
+        : this.link.replace(/README$/, ''),
       collapsed: this.collapsed,
       items: this.items.length > 0 ? this.items : undefined
     }
