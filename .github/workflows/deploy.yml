@@ -1,9 +1,14 @@
 name: Deploy
+
 on:
   workflow_dispatch: {}
   push:
     branches:
-      - main
+      - '**' 
+
+env:
+  URL_BASE: ${{ vars.URL_BASE }}
+
 permissions:
   pages: write
   id-token: write
@@ -11,6 +16,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     steps:
       - uses: actions/checkout@v3
         with:
@@ -21,11 +28,13 @@ jobs:
           cache: yarn
       - run: yarn install --frozen-lockfile
       - name: Build
-        run: yarn build
+        run:
+          yarn build
       - uses: actions/configure-pages@v2
       - uses: actions/upload-pages-artifact@v1
         with:
           path: .vitepress/dist
+
   deploy:
     environment:
       name: github-pages
