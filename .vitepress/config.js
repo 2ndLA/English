@@ -2,6 +2,7 @@ import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
 
 export default {
+  base: process.env.URL_BASE || undefined,
   cleanUrls: true,
   description: 'An easy and comprehensive way to learn English.',
   lastUpdated: true,
