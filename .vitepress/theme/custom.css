@@ -33,3 +33,9 @@ ul.task-list>.task-list-item>input {
 ul.task-list>.task-list-item>label {
     margin-left: 3px;
 }
+
+/* no line break for badge image */
+p>a>img[alt^="Badge"] {
+    display: inline-block;
+    margin-right: 3px;
+}
