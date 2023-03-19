@@ -4,11 +4,11 @@ description: Introduction
 
 # The English Learner
 
-[![Badge Netlify Status](https://api.netlify.com/api/v1/badges/0353af98-f62f-49ee-9a94-9f40ce7c53f1/deploy-status)](https://app.netlify.com/sites/2ndla-english/deploys)
-[![Badge GitHub](https://img.shields.io/github/actions/workflow/status/2ndLA/English/deploy.yml?label=GitHub)](https://github.com/2ndLA/English/actions)
-[![Badge License](https://img.shields.io/badge/license-CC--BY--SA--4.0-silver)](https://github.com/2ndLA/English/blob/main/LICENSE)
+[![Badge: Netlify Status](https://api.netlify.com/api/v1/badges/0353af98-f62f-49ee-9a94-9f40ce7c53f1/deploy-status)](https://app.netlify.com/sites/2ndla-english/deploys)
+[![Badge: GitHub](https://img.shields.io/github/actions/workflow/status/2ndLA/English/deploy.yml?label=GitHub)](https://github.com/2ndLA/English/actions)
+[![Badge: License](https://img.shields.io/badge/license-CC--BY--SA--4.0-silver)](https://github.com/2ndLA/English/blob/main/LICENSE)
 
-<!--@include: ./.vitepress/fm-desc.md-->
+<!--@include: ./.vitepress/hack.md-->
 
 An easy and comprehensive way to learn English.
 

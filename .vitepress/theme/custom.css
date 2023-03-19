@@ -35,7 +35,7 @@ ul.task-list>.task-list-item>label {
 }
 
 /* no line break for badge image */
-p>a>img[alt^="Badge"] {
+p>a>img[alt^="Badge:"] {
     display: inline-block;
     margin-right: 3px;
 }

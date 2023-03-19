@@ -4,7 +4,7 @@ description: Part of Speech | Word Class | Grammatical Category
 
 # 词性
 
-<!--@include: ../.vitepress/fm-desc.md-->
+<!--@include: ../.vitepress/hack.md-->
 
 **词性**是指单词所属的类别，同一类别的单词具有相似的语法属性。在英语中，一般分为如下 11 种词性 [[Wikipedia]](https://en.wikipedia.org/wiki/Part_of_speech)：
 

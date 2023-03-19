@@ -4,7 +4,7 @@ description: Foreword
 
 # 📄 前言
 
-<!--@include: ./.vitepress/fm-desc.md-->
+<!--@include: ./.vitepress/hack.md-->
 
 ![问 ChatGPT：还有必要学外语吗？](assets/foreword-ask-chatgpt.png)
 

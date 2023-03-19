@@ -4,7 +4,7 @@ description: Duolingo
 
 # 多邻国
 
-<!--@include: ../.vitepress/fm-desc.md-->
+<!--@include: ../.vitepress/hack.md-->
 
 💡 建议看完全文之后再注册多邻国账号。
 
@@ -60,4 +60,4 @@ description: Duolingo
 
 或者，你可以参考这篇「[多邻国迁移出国区指南](https://shuxiao.wang/posts/duolingo-refugee/)」尝试将账号迁出国区。由于涉及可能需要长时间等待的客服沟通，所以我们并没有尝试里面的办法。
 
-> 编者 Octobug 在 `95 天连胜` 时选择砍号重练，充分说明及时止损的重要性。
+> 编者 Octobug 在 `95天连胜` 时选择砍号重练，充分说明及时止损的重要性。
