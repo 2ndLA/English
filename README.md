@@ -8,7 +8,7 @@ description: Introduction
 [![Badge GitHub](https://img.shields.io/github/actions/workflow/status/2ndLA/English/deploy.yml?label=GitHub)](https://github.com/2ndLA/English/actions)
 [![Badge License](https://img.shields.io/badge/license-CC--BY--SA--4.0-silver)](https://github.com/2ndLA/English/blob/main/LICENSE)
 
-<!--@include: ./fm-desc.md-->
+<!--@include: ./.vitepress/fm-desc.md-->
 
 An easy and comprehensive way to learn English.
 
