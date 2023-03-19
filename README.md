@@ -42,4 +42,4 @@ An easy and comprehensive way to learn English.
 
 ## LICENSE
 
-© 2023-present, [2ndLA Team](https://github.com/2ndLA). [CC-BY-SA-4.0](https://github.com/2ndLA/English/blob/main/LICENSE).
+© 2023-present [2ndLA Team](https://github.com/2ndLA). [CC-BY-SA-4.0](https://github.com/2ndLA/English/blob/main/LICENSE).
