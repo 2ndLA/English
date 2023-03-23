@@ -25,17 +25,21 @@
 <script>
 function renderImageAltAsSubtitle(ctx) {
   const imgElems = ctx.$el.querySelectorAll('img')
-  imgElems.forEach(elem => {
+  imgElems.forEach((elem, index) => {
     if (elem.alt && !elem.alt.startsWith('Badge:')) {
+      const elemId = `image-subtitle-${index}`
       const subtitle = `
-        <div class="${ctx.$style.imgSubtitle}">
+        <div id="${elemId}" class="${ctx.$style.imgSubtitle}">
           <span class="${ctx.$style.imgSubtitleText}">${elem.alt}</span>
         </div>
       `
-      const parser = new DOMParser()
-      const htmlDoc = parser.parseFromString(subtitle, 'text/html')
-      const subtitleDiv = htmlDoc.body.firstChild
-      elem.insertAdjacentElement('afterend', subtitleDiv)
+      // prevent duplicated insertion
+      if (!document.getElementById(elemId)) {
+        const parser = new DOMParser()
+        const htmlDoc = parser.parseFromString(subtitle, 'text/html')
+        const subtitleDiv = htmlDoc.body.firstChild
+        elem.insertAdjacentElement('afterend', subtitleDiv)
+      }
     }
   })
 }
