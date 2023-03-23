@@ -1,8 +1,11 @@
+import path from 'path'
 import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
 
+const urlBase = process.env.URL_BASE || undefined
+
 export default {
-  base: process.env.URL_BASE || undefined,
+  base: urlBase,
   cleanUrls: true,
   description: 'An easy and comprehensive way to learn English.',
   lastUpdated: true,
@@ -11,7 +14,12 @@ export default {
   head: [
     [
       'link',
-      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: path.join(urlBase || '', 'favicon.png')
+      }
     ],
     ...gtagConfig
   ],
