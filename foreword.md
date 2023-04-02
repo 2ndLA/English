@@ -4,9 +4,9 @@ description: Foreword
 
 # 📄 前言
 
-<!--@include: ./fm-desc.md-->
+<!--@include: ./.vitepress/hack.md-->
 
-![问 ChatGPT：还有必要学外语吗？](.gitbook/assets/foreword-ask-chatgpt.png)
+![问 ChatGPT：还有必要学外语吗？](assets/foreword-ask-chatgpt.png)
 
 这里收集的英语学习材料基本按照难度递增的顺序编排，建议先按顺序浏览一遍目录。
 

@@ -1,8 +1,11 @@
+import path from 'path'
 import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
 
+const urlBase = process.env.URL_BASE || undefined
+
 export default {
-  base: process.env.URL_BASE || undefined,
+  base: urlBase,
   cleanUrls: true,
   description: 'An easy and comprehensive way to learn English.',
   lastUpdated: true,
@@ -11,7 +14,12 @@ export default {
   head: [
     [
       'link',
-      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png' }
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: path.join(urlBase || '', 'favicon.png')
+      }
     ],
     ...gtagConfig
   ],
@@ -50,7 +58,7 @@ export default {
     },
     footer: {
       message: '🇨🇳 🇬🇧 Second-language Acquisition',
-      copyright: 'Contributed by 2ndLA@GitHub © Since 2023'
+      copyright: '© 2023-present <a href="https://github.com/2ndLA" target="_blank">2ndLA Team</a>. <a href="https://github.com/2ndLA/English/blob/main/LICENSE" target="_blank">CC-BY-SA-4.0</a>.'
     },
     nav: [
       { text: '🗺️ 2ndLA', link: 'https://github.com/2ndLA' }
