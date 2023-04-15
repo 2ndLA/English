@@ -38,7 +38,7 @@ export default {
   // You have to write mapping for each depth of README.md
   // https://github.com/vuejs/vitepress/discussions/1942
   rewrites: {
-    'home.md': 'index.md',
+    'HOME.md': 'index.md',
     'README.md': 'introduction.md',
     ':a*/README.md': ':a*/index.md',
     ':a*/:b*/README.md': ':a*/:b*/index.md',

@@ -4,7 +4,11 @@
 [![Badge: GitHub](https://img.shields.io/github/actions/workflow/status/2ndLA/English/deploy.yml?label=GitHub)](https://github.com/2ndLA/English/actions)
 [![Badge: License](https://img.shields.io/badge/license-CC--BY--SA--4.0-silver)](https://github.com/2ndLA/English/blob/main/LICENSE)
 
-An easy and comprehensive way to learn English.
+> An easy and comprehensive way to learn English.
+
+这是一份全面、渐进、碎片化的英语自学指引。它包含的所有内容都经过至少一名编者的实践，在此基础上我们详细列出了它们对应的学习目标、优点及缺点。
+
+对于自学者来说，最难的一件事可能不是坚持，而是找到适合自己的学习资料。这正是这份指引首要解决的问题。
 
 ## 在线阅读
 
