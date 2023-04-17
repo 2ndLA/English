@@ -4,6 +4,5 @@
     "rules": "https://github.com/DavidAnson/markdownlint",
     "vscode": "https://github.com/DavidAnson/vscode-markdownlint"
   },
-  "MD012": false,
   "MD013": false
 }
