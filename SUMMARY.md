@@ -2,6 +2,7 @@
 
 * [ℹ 简介](README.md)
 * [📄 前言](foreword.md)
+* [🧭 使用指南 🚧](how-to-use.md)
 * [🛠 工具](tools.md)
 * [🐣 零基础](primer/README.md)
   * [多邻国](primer/duolingo.md)
