@@ -37,9 +37,9 @@ description: Duolingo
 
 常常有人抱怨多邻国的课程内容太简单了，而且关卡内容重复度很高。
 
-事实上，即使你已经过了 CET4/6，也不能说明你能完全掌握这些比较基础的，被称为“小语法”的知识点：
+事实上，即使你已经过了 CET4/6，也不能说明你已经掌握这些比较基础的，被称为“小语法”的知识点：
 
-比如，使用介词 at, in, on 填空。
+比如，使用介词 at, in, on 填空：
 
 1. ____ July
 2. ____ July first
@@ -51,6 +51,8 @@ description: Duolingo
 8. ____ the afternoon
 9. ____ the party (聚会)
 10. ____ the party (党派)
+
+> 答案见本文末尾。
 
 或者，你能全部做对，但是需要花一点时间思考。
 
@@ -111,3 +113,18 @@ A: 建议在形成使用习惯之后再购买，不要冲动消费。
 
 1. 多邻国会不定期放出优惠活动，可以自行搜索关键字 "duolingo promo code" 看近期是否有可用的兑换码。（promo 是 promotion 的缩写，在这里意为“促销，推销”）
 2. App 的内购价格比较昂贵，并且需要绑定支付（Android 上是绑定 Google Play，iOS 未尝试），所以……可以考虑在某宝购买家庭拼车套餐。⚠️ 这类渠道理论上可能有封号风险，不过暂时没有听说过有谁因此被封号。
+
+## 答案
+
+### 好在哪里：小测
+
+1. ***in*** July
+2. ***on*** July first
+3. ***on*** Sunday
+4. ***in*** New York
+5. ***at*** a store
+6. ***at*** work
+7. ***at*** five o'clock
+8. ***in*** the afternoon
+9. ***at*** the party (聚会)
+10. ***in*** the party (党派)
