@@ -58,7 +58,7 @@ export default {
     },
     footer: {
       message: '🇨🇳 🇬🇧 Second-language Acquisition',
-      copyright: '© 2023-present <a href="https://github.com/2ndLA" target="_blank">2ndLA Team</a>. <a href="https://github.com/2ndLA/English/blob/main/LICENSE" target="_blank">CC-BY-SA-4.0</a>.'
+      copyright: '© 2023-present <a href="https://github.com/2ndLA" target="_blank">2ndLA Team</a>. <a href="https://github.com/2ndLA/English/blob/main/LICENSE" target="_blank">CC BY-NC-SA 4.0</a>.'
     },
     nav: [
       { text: '🗺️ 2ndLA', link: 'https://github.com/2ndLA' }
