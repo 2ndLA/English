@@ -6,7 +6,7 @@
 * [🛠 工具](tools.md)
 * [🐣 零基础](primer/README.md)
   * [多邻国](primer/duolingo.md)
-  * [新概念英语 🚧](primer/new-concept-english.md)
+  * [新概念英语](primer/new-concept-english.md)
 * [🔠 词汇](vocabulary/README.md)
   * [音标 🚧](vocabulary/yin-biao.md)
   * [词性](vocabulary/part-of-speech.md)
