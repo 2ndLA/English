@@ -12,11 +12,11 @@ description: New Concept English
 
 ### 四册学习目标
 
-- **新概念英语 (1) 英语初阶 (First Things First)** [\[豆瓣\]](https://book.douban.com/subject/1006720/)：掌握基本的、常用的单词及其发音，完成简单词汇的积累，掌握基础口语能力。
+- **新概念英语 (1) 英语初阶 (First Things First)** [\[豆瓣\]](https://book.douban.com/subject/1006720/)：掌握基本的、常用的单词及其发音，完成简单词汇的积累；掌握基础口语能力。
 
   > 全书分为 2 个阶段，共 144 课，以日常对话练习为主。
 
-- **新概念英语 (2) 实践与进步 (Practice & Progress)** [\[豆瓣\]](https://book.douban.com/subject/1025721/)：培养英文语感、纠正发音和培养自然语调；掌握归纳总结、造句及书写简单的私人信件。
+- **新概念英语 (2) 实践与进步 (Practice & Progress)** [\[豆瓣\]](https://book.douban.com/subject/1025721/)：培养英文语感、纠正发音和培养自然语调；掌握归纳总结、造句及书写简单私人信件的能力。
   
   > 全书分为 4 个单元，共 96 篇课文，每篇长度为 100~180 词。
 
