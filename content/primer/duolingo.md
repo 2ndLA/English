@@ -43,14 +43,17 @@ description: Duolingo
 
 1. ____ July
 2. ____ July first
-3. ____ Sunday
-4. ____ New York
-5. ____ a store
-6. ____ work
-7. ____ five o'clock
-8. ____ the afternoon
-9. ____ the party (聚会)
-10. ____ the party (党派)
+3. ____ (the) summer
+4. ____ Sunday
+5. ____ New York
+6. ____ a store
+7. ____ work
+8. ____ five o'clock
+9. ____ the afternoon
+10. ____ night
+11. ____ the party (聚会)
+12. ____ the party (党派)
+13. ____ a team
 
 > 答案见本文末尾。
 
@@ -134,11 +137,16 @@ App 的内购价格比较昂贵，并且需要绑定支付（Android 上是绑�
 
 1. ***in*** July
 2. ***on*** July first
-3. ***on*** Sunday
-4. ***in*** New York
-5. ***at*** a store
-6. ***at*** work
-7. ***at*** five o'clock
-8. ***in*** the afternoon
-9. ***at*** the party (聚会)
-10. ***in*** the party (党派)
+3. ***in*** (the) summer
+4. ***on*** Sunday
+5. ***in*** New York
+6. ***at/in*** a store
+7. ***at*** work
+8. ***at*** five o'clock
+9. ***in*** the afternoon
+10. ***at*** night
+11. ***at*** the party (聚会)
+12. ***in*** the party (党派)
+13. ***in/on*** a team
+
+关于介词更详尽的使用方法，请查看「[📓 语法](/content/grammar/)」部分。
