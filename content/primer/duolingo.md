@@ -4,7 +4,7 @@ description: Duolingo
 
 # 多邻国
 
-<!--@include: ../.vitepress/hack.md-->
+<!--@include: ../../.vitepress/hack.md-->
 
 💡 建议看完全文之后再注册多邻国账号。
 
