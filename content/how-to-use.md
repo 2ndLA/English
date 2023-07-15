@@ -4,7 +4,7 @@ description: How to Use
 
 # 🧭 使用指南 🚧
 
-<!--@include: ./.vitepress/hack.md-->
+<!--@include: ../.vitepress/hack.md-->
 
 ## 碎片化学习
 

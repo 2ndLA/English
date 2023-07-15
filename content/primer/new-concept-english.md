@@ -4,7 +4,7 @@ description: New Concept English
 
 # 新概念英语
 
-<!--@include: ../.vitepress/hack.md-->
+<!--@include: ../../.vitepress/hack.md-->
 
 ## 简介 🚧
 

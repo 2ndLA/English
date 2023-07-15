@@ -4,7 +4,7 @@ description: Tools
 
 # 🛠 工具
 
-<!--@include: ./.vitepress/hack.md-->
+<!--@include: ../.vitepress/hack.md-->
 
 > ~~俗话说得好，~~_欲打三天鱼，先晒两天网。_
 
