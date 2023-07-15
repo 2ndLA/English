@@ -77,9 +77,9 @@ description: Duolingo
 如果你非常想要使用完整的功能，你需要**同时做到**：
 
 1. 科学上网
-2. 多邻国客户端
+2. 安装 App
    - **Android**: 尽量从 Google Play Store 或者多邻国官网 [[duolingo.com]](https://www.duolingo.com) 下载安装
-   - **iOS**: 使用非大陆地区的 Apple ID 登录 App Store 下载安装
+   - **iOS**: 使用非大陆地区的 Apple ID 登录 App Store 下载安装（感谢 `@小八` 同学实测）
 3. 设备（手机、平板电脑等）设置为**非大陆时区**，可以设置为其他东八区时区（如香港、台北、新加坡）以免影响日常使用
 4. 不绑定大陆地区的手机号，改为绑定**邮箱**或**其他地区的手机号**
 5. 不绑定**微信**
@@ -97,7 +97,7 @@ description: Duolingo
 
 或者，你可以参考这篇「[多邻国迁移出国区指南](https://shuxiao.wang/posts/duolingo-refugee/)」尝试将账号迁出国区。由于涉及可能需要长时间等待的客服沟通，所以我们并没有尝试里面的办法。
 
-> 编者 Octobug 在 `95天连胜` 时才决定砍号重练，充分说明及时止损的重要性。
+> 编者 `@Octobug` 在 `95天连胜` 时才决定砍号重练，充分说明及时止损的重要性。
 
 ## Super Duolingo (会员)
 
