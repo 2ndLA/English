@@ -4,7 +4,7 @@ description: Spelling
 
 # 拼写
 
-<!--@include: ../.vitepress/hack.md-->
+<!--@include: ../../.vitepress/hack.md-->
 
 ## 如何高效记拼写 🚧
 

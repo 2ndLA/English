@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ℹ 简介](README.md)
-* [📄 前言](content/foreword.md)
+* [📄 前言](content/preface.md)
 * [🧭 使用指南 🚧](content/how-to-use.md)
 * [🛠 工具](content/tools.md)
 * [🐣 零基础](content/primer/README.md)
