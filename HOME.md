@@ -10,7 +10,7 @@ hero:
       text: 开始阅读
       link: /introduction
     - theme: alt
-      text: GitHub 项目
+      text: GitHub 仓库
       link: https://github.com/2ndLA/English
 
 features:

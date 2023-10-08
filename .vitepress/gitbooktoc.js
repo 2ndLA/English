@@ -1,6 +1,15 @@
 import { readFileSync } from 'fs'
 
-const PATTERN = /^ *\* \[(?<title>.*)\]\((?<path>.*)\.md\)$/
+const REGEX = {
+  TOC: /^ *\* \[(?<title>.*)\]\((?<path>.*)\.md\)$/,
+  INDEX: /README$/,
+  CONTENT: /content\//
+}
+
+const SPECIAL_PATH = {
+  README: '/README',
+  INTRO: '/introduction'
+}
 
 class Node {
   constructor(title, path) {
@@ -24,9 +33,9 @@ class Node {
   toJSON() {
     return {
       text: this.text,
-      link: this.link === '/README'
-        ? '/introduction'
-        : this.link.replace(/README$/, ''),
+      link: this.link === SPECIAL_PATH.README
+        ? SPECIAL_PATH.INTRO
+        : this.link.replace(REGEX.INDEX, '').replace(REGEX.CONTENT, ''),
       collapsed: this.collapsed,
       items: this.items.length > 0 ? this.items : undefined
     }
@@ -35,7 +44,7 @@ class Node {
 
 function constructNode(line, result) {
   if (line.startsWith('*')) {
-    const match = line.match(PATTERN)
+    const match = line.match(REGEX.TOC)
     const { title, path } = match.groups
     result.push(new Node(title, path))
     return result
@@ -57,7 +66,7 @@ function sidebar(lines, result = []) {
 function readGitBookSidebar() {
   const gbSidebarContent = readFileSync('SUMMARY.md')
   const gbSidebarLines = gbSidebarContent.toString().split('\n')
-  const filteredGbSidebarLines = gbSidebarLines.filter(line => PATTERN.test(line))
+  const filteredGbSidebarLines = gbSidebarLines.filter(line => REGEX.TOC.test(line))
   const sidebarData = sidebar(filteredGbSidebarLines, [])
   return sidebarData
 }
@@ -70,4 +79,4 @@ try {
   process.exit(1)
 }
 
-export default result
+export default JSON.parse(JSON.stringify(result))
