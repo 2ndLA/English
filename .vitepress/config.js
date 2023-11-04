@@ -1,6 +1,7 @@
 import path from 'path'
 import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
+import { tokenize } from './search'
 
 const urlBase = process.env.URL_BASE || undefined
 
@@ -18,7 +19,7 @@ export default {
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: path.join(urlBase || '', 'favicon.png')
+        href: path.join(urlBase || '/', 'favicon.png')
       }
     ],
     ...gtagConfig
@@ -73,7 +74,25 @@ export default {
       { text: '🗺️ 2ndLA', link: 'https://github.com/2ndLA' }
     ],
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        detailedView: true,
+        miniSearch: {
+          // https://lucaong.github.io/minisearch/modules/MiniSearch.html
+          options: {
+            tokenize
+          },
+          searchOptions: {
+            fuzzy: 0.1,
+            prefix: true,
+            boost: {
+              title: 4,
+              text: 2
+            },
+            combineWith: 'AND'
+          }
+        }
+      }
     },
     sidebar: sidebarData,
     socialLinks: [
