@@ -10,11 +10,15 @@
     --gb-c-blue-darker: #183267;
     /* GitBook Colors */
 
-    --vp-c-brand: var(--gb-c-blue);
-    --vp-c-brand-light: var(--gb-c-bluegray-light);
-    --vp-c-brand-lighter: var(--gb-c-bluegray-lighter);
-    --vp-c-brand-dark: var(--gb-c-blue-dark);
-    --vp-c-brand-darker: var(--gb-c-blue-darker);
+    --vp-c-brand-1: var(--gb-c-blue);
+    --vp-c-brand-2: var(--gb-c-blue-dark);
+    --vp-c-brand-3: var(--gb-c-blue);
+    --vp-c-brand-soft: var(--gb-c-bluegray-lighter);
+}
+
+/* Text Theme */
+.vp-doc a {
+    text-decoration: none;
 }
 
 /* CheckList Customization */
