@@ -4,8 +4,6 @@ description: Preface
 
 # 📄 前言
 
-<!--@include: ../.vitepress/hack.md-->
-
 ## 为什么要学英语
 
 这是一个老生常谈的话题，我们直接看看 ChatGPT 是怎么回答的。

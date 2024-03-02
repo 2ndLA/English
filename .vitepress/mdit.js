@@ -9,7 +9,7 @@ function appendImageFigures(md) {
   })
 }
 
-function taskCheckbox(md) {
+function renderTaskCheckbox(md) {
   md.use(mdTaskCheckbox, {
     disabled: true,
     divWrap: false,
@@ -20,7 +20,18 @@ function taskCheckbox(md) {
   })
 }
 
+function insertPostElements(md) {
+  md.renderer.rules.heading_close = (tokens, idx, options, _env, self) => {
+    let result = self.renderToken(tokens, idx, options)
+    if (tokens[idx].markup === '#') {
+      result += '\n\n<Description />\n\n'
+    }
+    return result
+  }
+}
+
 export default function useMDItPlugins(md) {
+  insertPostElements(md)
   appendImageFigures(md)
-  taskCheckbox(md)
+  renderTaskCheckbox(md)
 }
