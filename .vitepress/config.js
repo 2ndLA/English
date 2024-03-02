@@ -1,6 +1,7 @@
 import path from 'path'
 import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
+import useMDItPlugins from './mdit'
 import { tokenize } from './search'
 
 const urlBase = process.env.URL_BASE || undefined
@@ -27,14 +28,7 @@ export default {
   ],
   markdown: {
     config: (md) => {
-      md.use(require('markdown-it-task-checkbox'), {
-        disabled: true,
-        divWrap: false,
-        divClass: 'checkbox',
-        idPrefix: 'cbx_',
-        ulClass: 'task-list',
-        liClass: 'task-list-item'
-      })
+      useMDItPlugins(md)
     }
   },
   // You have to write mapping for each depth of README.md
