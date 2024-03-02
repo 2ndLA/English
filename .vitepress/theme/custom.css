@@ -45,7 +45,7 @@ p>a>img[alt^="Badge:"] {
 }
 
 /* image */
-.main img {
+.main figure img {
     border-radius: 0.5rem;
     box-shadow: 0 0.5rem 0.8rem var(--vp-c-default-soft);
     margin-bottom: 0.8rem;
@@ -53,7 +53,7 @@ p>a>img[alt^="Badge:"] {
     margin-right: auto;
 }
 
-.dark .main img {
+.dark .main figure img {
     border: 0.1rem solid var(--vp-c-neutral);
     box-shadow: none;
 }
