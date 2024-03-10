@@ -4,13 +4,11 @@ description: Preface
 
 # 📄 前言
 
-<!--@include: ../.vitepress/hack.md-->
-
 ## 为什么要学英语
 
 这是一个老生常谈的话题，我们直接看看 ChatGPT 是怎么回答的。
 
-![问 ChatGPT：还有必要学外语吗？](.assets/preface-ask-chatgpt.png)
+![问 ChatGPT：还有必要学外语吗？](.assets/preface-ask-chatgpt.png '问 ChatGPT：还有必要学外语吗？')
 
 事实上，如果你自己不能回答这个问题，那么可能当下的你并不需要学英语。在这种情况下逼迫自己学，效果应该不会很好。
 

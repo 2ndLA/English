@@ -4,8 +4,6 @@ description: How to Use
 
 # 🧭 使用指南 🚧
 
-<!--@include: ../.vitepress/hack.md-->
-
 ## 碎片化学习
 
 学习一门语言是个漫长的过程，请回忆一下自己学习母语的“听说读写”花了多少年，考了多少试。

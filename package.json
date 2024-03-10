@@ -27,7 +27,8 @@
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
     "husky": "^8.0.3",
+    "markdown-it-image-figures": "^2.1.1",
     "markdown-it-task-checkbox": "^1.0.6",
-    "vitepress": "^1.0.0-rc.20"
+    "vitepress": "^1.0.0-rc.44"
   }
 }

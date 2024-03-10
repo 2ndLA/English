@@ -1,9 +1,11 @@
 import path from 'path'
 import sidebarData from './gitbooktoc'
 import gtagConfig from './gtag'
+import useMDItPlugins from './mdit'
 import { tokenize } from './search'
 
 const urlBase = process.env.URL_BASE || undefined
+const year = new Date().getFullYear()
 
 export default {
   base: urlBase,
@@ -26,14 +28,7 @@ export default {
   ],
   markdown: {
     config: (md) => {
-      md.use(require('markdown-it-task-checkbox'), {
-        disabled: true,
-        divWrap: false,
-        divClass: 'checkbox',
-        idPrefix: 'cbx_',
-        ulClass: 'task-list',
-        liClass: 'task-list-item'
-      })
+      useMDItPlugins(md)
     }
   },
   // You have to write mapping for each depth of README.md
@@ -61,7 +56,7 @@ export default {
     },
     footer: {
       message: '🇨🇳 🇬🇧 Second-language Acquisition',
-      copyright: '© 2023-present <a href="https://github.com/2ndLA" target="_blank">2ndLA Team</a>. <a href="https://github.com/2ndLA/English/blob/main/LICENSE" target="_blank">CC BY-NC-SA 4.0</a>.'
+      copyright: `© 2023-${year} <a href="https://github.com/2ndLA" target="_blank">2ndLA Team</a>. <a href="https://github.com/2ndLA/English/blob/main/LICENSE" target="_blank">CC BY-NC-SA 4.0</a>.`
     },
     lastUpdated: {
       text: '更新于',

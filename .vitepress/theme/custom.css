@@ -43,3 +43,24 @@ p>a>img[alt^="Badge:"] {
     display: inline-block;
     margin-right: 3px;
 }
+
+/* image */
+.main figure img {
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 0.8rem var(--vp-c-default-soft);
+    margin-bottom: 0.8rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dark .main figure img {
+    border: 0.1rem solid var(--vp-c-neutral);
+    box-shadow: none;
+}
+
+figure>figcaption {
+    text-align: center;
+    color: #8899a8;
+    font-size: 12px;
+    font-weight: 400;
+}

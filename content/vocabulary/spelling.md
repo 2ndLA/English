@@ -4,8 +4,6 @@ description: Spelling
 
 # 拼写
 
-<!--@include: ../../.vitepress/hack.md-->
-
 ## 如何高效记拼写 🚧
 
 ## 番外：打字训练
