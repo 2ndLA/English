@@ -47,15 +47,10 @@ p>a>img[alt^="Badge:"] {
 /* image */
 .main figure img {
     border-radius: 0.5rem;
-    box-shadow: 0 0.5rem 0.8rem var(--vp-c-default-soft);
-    margin-bottom: 0.8rem;
+    border: 1px solid var(--vp-c-default-1);
+    margin-bottom: 0.5rem;
     margin-left: auto;
     margin-right: auto;
-}
-
-.dark .main figure img {
-    border: 0.1rem solid var(--vp-c-neutral);
-    box-shadow: none;
 }
 
 figure>figcaption {
