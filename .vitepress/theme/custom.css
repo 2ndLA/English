@@ -16,6 +16,11 @@
     --vp-c-brand-soft: var(--gb-c-bluegray-lighter);
 }
 
+/* Override VP styles */
+.vp-doc h3 {
+    margin-bottom: 1rem;
+}
+
 /* Text Theme */
 .vp-doc a {
     text-decoration: none;
@@ -45,12 +50,13 @@ p>a>img[alt^="Badge:"] {
 }
 
 /* image */
-.main figure img {
+img.large-media, embed.large-media, iframe.large-media {
     border-radius: 0.5rem;
     border: 1px solid var(--vp-c-default-1);
     margin-bottom: 0.5rem;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
 }
 
 figure>figcaption {
@@ -58,4 +64,22 @@ figure>figcaption {
     color: #8899a8;
     font-size: 12px;
     font-weight: 400;
+}
+
+iframe {
+    height: 100%;
+}
+
+.video {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 */
+}
+
+.video iframe {
+    border: none;
+    position: absolute;
+}
+
+iframe.page {
+    height: 50vh;
 }

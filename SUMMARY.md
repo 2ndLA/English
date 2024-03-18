@@ -8,7 +8,7 @@
   * [多邻国](content/primer/duolingo.md)
   * [新概念英语](content/primer/new-concept-english.md)
 * [🔠 词汇](content/vocabulary/README.md)
-  * [音标 🚧](content/vocabulary/yin-biao.md)
+  * [音标](content/vocabulary/phonetic-symbols.md)
   * [词性](content/vocabulary/part-of-speech.md)
   * [词根词缀 🚧](content/vocabulary/ci-gen-ci-zhui.md)
   * [拼写](content/vocabulary/spelling.md)
