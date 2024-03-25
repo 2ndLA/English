@@ -1,5 +1,5 @@
 ---
-description: Part of Speech | Word Class | Grammatical Category
+description: Parts of Speech
 ---
 
 # 词性
