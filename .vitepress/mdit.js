@@ -1,5 +1,16 @@
 import mdImageFigures from 'markdown-it-image-figures'
 import mdTaskCheckbox from 'markdown-it-task-checkbox'
+import mdMultiCellsTable from 'markdown-it-multimd-table'
+
+function renderMultiCellsTable(md) {
+  md.use(mdMultiCellsTable, {
+    multiline: true,
+    rowspan: true,
+    headerless: true,
+    multibody: true,
+    autolabel: true
+  })
+}
 
 function appendImageFigures(md) {
   // usage: ![alt](https://link-to-image 'title'){.class}
@@ -34,4 +45,5 @@ export default function useMDItPlugins(md) {
   insertPostElements(md)
   appendImageFigures(md)
   renderTaskCheckbox(md)
+  renderMultiCellsTable(md)
 }
