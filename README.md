@@ -13,16 +13,8 @@
 
 ## 在线阅读
 
-### [english.highlight.ink](https://english.highlight.ink/)
-
-* **访问速度更快**
-* 基于 [VitePress](https://vitepress.vuejs.org/) + [Netlify](https://netlify.com)
-
-### [2ndla.highlight.ink/v/english](https://2ndla.highlight.ink/v/english)
-
-* **界面更加美观**
-* 访问速度较慢
-* 基于 [GitBook](https://www.gitbook.com/)
+- [english.highlight.ink](https://english.highlight.ink/)
+  - 基于 [VitePress](https://vitepress.vuejs.org/) + [Netlify](https://netlify.com)
 
 ## 贡献内容
 
