@@ -1,5 +1,5 @@
 ---
-description: Vocabulary | Lexical Resource
+description: Vocabulary | Lexical Resources
 ---
 
 # 🔠 词汇 🚧
