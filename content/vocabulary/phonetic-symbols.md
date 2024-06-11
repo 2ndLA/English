@@ -25,11 +25,7 @@ description: Phonetic Symbols
 
 ### 英式英语 IPA
 
-这个[英语国际音标表 (International Phonetic Alphabet for English)](https://mengxiang.net/tool/phonetic/) 做得非常精美（来自[梦想网](https://mengxiang.net)）：
-
-<iframe src="https://mengxiang.net/tool/phonetic/"
-    frameborder="no" framespacing="0" class="page large-media">
-</iframe>
+这个[英语国际音标表 (International Phonetic Alphabet for English)](https://mengxiang.net/tool/phonetic/) 做得非常精美，且带有 BBC 的发音（来自[梦想网](https://mengxiang.net)）。
 
 ### 美式英语 IPA
 
