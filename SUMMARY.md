@@ -19,6 +19,8 @@
   * [索引](content/grammar/indexes.md)
     * [句子成分](content/grammar/parts-of-speech/README.md)
       * [代词](content/grammar/parts-of-speech/pronouns.md)
+      * [动词](content/grammar/parts-of-speech/verbs.md)
+      * [冠词](content/grammar/parts-of-speech/articles.md)
     * [句子结构](content/grammar/sentence-structure.md)
     * [三类从句](content/grammar/san-lei-cong-ju.md)
     * [四种时态](content/grammar/si-zhong-shi-tai.md)
